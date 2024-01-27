@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .section-container {
-  @apply max-w-6xl px-10 mx-auto;
+  @apply max-w-6xl px-10 mx-auto text-center;
 }
 
 .button-container {
